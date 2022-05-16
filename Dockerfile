@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY /dist/kiddy /usr/share/nginx/html
+COPY /dist/cloud-main/kiddy /usr/share/nginx/html
